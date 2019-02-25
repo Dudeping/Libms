@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 using System.Xml;
 
-namespace Library_managment_system
+namespace Libms
 {
     class Check
     {

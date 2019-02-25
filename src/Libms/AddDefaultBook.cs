@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Linq;
 
-namespace Library_managment_system
+namespace Libms
 {
     class AddDefaultBook
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Library_managment_system
+namespace Libms
 {
      static class Robot
     {
